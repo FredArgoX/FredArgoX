@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/FredArgoX/FredArgoX/refs/heads/main/Github_banner.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 I'm a Data Scientist
 
