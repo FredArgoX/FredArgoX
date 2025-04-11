@@ -2,7 +2,7 @@
 
 # About Me:
 I'm a Data Scientist
-
+<br>
 I'm currently developing <a href="https://fredargox.github.io/DataX/">DataX</a>, a personal website organizing "Practical Data Science Knowledge"
 
 ## Socials:
