@@ -2,9 +2,7 @@
 
 # 💫 About Me:
 I'm a Data Scientist
-I'm currently developing <b>DataX<b>, a personal website aiming to present "Practical Data Science Knowledge" [https://fredargox.github.io/DataX/] 
-
-![DataX](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+I'm currently developing [![DataX](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/fredy-arce-data-science](https://fredargox.github.io/DataX/)), a personal website organizing "Practical Data Science Knowledge"
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fredy-arce-data-science) 
